@@ -1,0 +1,24 @@
+body{
+    background-color: cadetblue;
+    padding:20px;
+    position:relative;
+    font-family: Cambria;
+}
+h1{
+    text-align: center;
+    background-color: darkslategrey;
+}
+div#kys1{
+    margin:auto;
+    width:50%;
+    border-radius: 60px;
+    padding:2%;
+}
+/*
+1. 8-10 küsimust;
+2.
+Hinne 3 - JS nagu tunnis
+Hinne 4 - lisada var, let
+hinne 5 - tsüklid /massivid
+3. css
+ */
